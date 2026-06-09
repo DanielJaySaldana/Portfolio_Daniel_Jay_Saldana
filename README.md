@@ -6,6 +6,6 @@
     <meta http-equiv="refresh" content="0; url=https://xn--danieljaysaldaafreelanceportfolio-gfd.framer.website" />
   </head>
   <body>
-    Redirecting...
+    Portfolio 
   </body>
 </html>
